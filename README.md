@@ -3,3 +3,6 @@ An Arduino-controlled trash bin that uses an OpenCV-trained model to identify an
 
 - Create a Keras model using [Teachable Machine](https://teachablemachine.withgoogle.com/).
 - Sending commands from Python to Arduino from this [Video](https://www.youtube.com/watch?v=I-3cRo7lId8).
+
+### Classifying trash
+- There are 3 types of trash. Plastic Bottle, Tin Can, and Paper.
